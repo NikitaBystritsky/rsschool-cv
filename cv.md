@@ -13,3 +13,20 @@ Currently I am a student that loves coding and learning, graduated from the univ
 
 My goal is to learn the front-end development profession and to find a job in the future in this specialty.
 
+## Skills
+
+* HTML
+* CSS
+* JavaScript
+* Python
+
+## Education and courses
+
+* Ural Federal University software engineering
+* Ural Federal University Masters degree (in progress)
+* RS School JavaScript/Front-end course (in progress)
+
+## Languages 
+
+* Russian native
+* English C1
